@@ -1,0 +1,36 @@
+{
+  "name": "@stdlib/stats-base-dists-normal-mean",
+  "version": "0.0.0",
+  "description": "Normal distribution expected value.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-normal-mean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "moments",
+    "gaussian",
+    "normal",
+    "continuous",
+    "mean",
+    "average",
+    "avg",
+    "expected",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
