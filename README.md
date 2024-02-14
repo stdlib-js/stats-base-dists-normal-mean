@@ -67,7 +67,7 @@ The [expected value][mean] for a [normal][normal-distribution] random variable w
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@v0.2.0-deno/mod.js';
 ```
 
 #### mean( mu, sigma )
@@ -127,7 +127,7 @@ y = mean( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@v0.2.0-deno/mod.js';
 
 var sigma;
 var mu;
