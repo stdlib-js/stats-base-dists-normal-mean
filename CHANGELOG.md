@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b39cb93`](https://github.com/stdlib-js/stdlib/commit/b39cb935bfc2b083ca22cfd93e6d324bdfc76acd) - **chore:** update package meta data [(#7476)](https://github.com/stdlib-js/stdlib/pull/7476) _(by stdlib-bot)_
 -   [`c6ae2c0`](https://github.com/stdlib-js/stdlib/commit/c6ae2c000e8f0d37ecb824b4d9da1c065f2889a9) - **feat:** add C implementation for `stats/base/dists/normal/mean` _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 

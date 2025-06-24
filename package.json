@@ -14,6 +14,7 @@
     }
   ],
   "main": "./lib",
+  "gypfile": false,
   "directories": {
     "benchmark": "./benchmark",
     "doc": "./docs",
@@ -23,7 +24,6 @@
     "src": "./src",
     "test": "./test"
   },
-  "gypfile": false,
   "types": "./docs/types",
   "scripts": {
     "test": "make test",
