@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-06-24)
+
+<section class="features">
+
+### Features
+
+-   [`c6ae2c0`](https://github.com/stdlib-js/stdlib/commit/c6ae2c000e8f0d37ecb824b4d9da1c065f2889a9) - add C implementation for `stats/base/dists/normal/mean`
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`c6ae2c0`](https://github.com/stdlib-js/stdlib/commit/c6ae2c000e8f0d37ecb824b4d9da1c065f2889a9) - **feat:** add C implementation for `stats/base/dists/normal/mean` _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
