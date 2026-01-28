@@ -67,7 +67,7 @@ The [expected value][mean] for a [normal][normal-distribution] random variable w
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@v0.3.0-esm/index.mjs';
 ```
 
 #### mean( mu, sigma )
@@ -133,7 +133,7 @@ y = mean( 0.0, -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-normal-mean@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
