@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ee1f1a7`](https://github.com/stdlib-js/stdlib/commit/ee1f1a7b7d7de0dba506731a05698e0bb43b2d1c) - **docs:** fix wrong section order in `stats/base/dists` and `stats/strided` READMEs _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
