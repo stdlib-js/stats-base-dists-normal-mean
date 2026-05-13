@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-14)
+## Unreleased (2026-05-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bac6704`](https://github.com/stdlib-js/stdlib/commit/bac67041cbbeeba2ed88f0030d28290e095d02c8) - **chore:** update example and add missing space in `stats/base/dists/normal/mean` [(#12104)](https://github.com/stdlib-js/stdlib/pull/12104) _(by Philipp Burckhardt)_
 -   [`ee1f1a7`](https://github.com/stdlib-js/stdlib/commit/ee1f1a7b7d7de0dba506731a05698e0bb43b2d1c) - **docs:** fix wrong section order in `stats/base/dists` and `stats/strided` READMEs _(by Philipp Burckhardt)_
 
 </details>
