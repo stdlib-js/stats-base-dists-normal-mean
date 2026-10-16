@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-09)
+## Unreleased (2026-10-16)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`e2a77ec`](https://github.com/stdlib-js/stdlib/commit/e2a77ec64c3b817185334570f41dfc68a5a75a50) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`2861fe4`](https://github.com/stdlib-js/stdlib/commit/2861fe430548bb441cce624fcfe35a66059c5fba) - **chore:** clean-up [(#16062)](https://github.com/stdlib-js/stdlib/pull/16062) _(by Philipp Burckhardt)_
 -   [`d48c86a`](https://github.com/stdlib-js/stdlib/commit/d48c86addcf3595e88843f82969742a67b4365b9) - **test:** migrate `stats/base/dists/normal/mean` to ULP-based assertions [(#14472)](https://github.com/stdlib-js/stdlib/pull/14472) _(by Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
